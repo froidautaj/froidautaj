@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, name's Froi
 
-<!--
-**froidautaj/froidautaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about web development and trying to improve both my frontend and backend skillset. I do my utmost to create, optimise and style a website to the best of my ability.
 
-Here are some ideas to get you started:
+Currently: 
+  - 🥳 I have graduated the intensive 9-week Le Wagon fullstack Web Dev Bootcamp
+  - 🧑🏻‍💻 I am looking to work in frontend web development
+  - 📚 I am studying for my Bachelor's degree in Computing & IT with Business
+  - 😁 I am exploring the best practices for Ruby on Rails and Javascript programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bootcamp projects I have worked on with my team:
+  - <a href="https://github.com/froidautaj/SanitApp">SanitApp</a>: an Airbnb clone
+  - <a href="https://github.com/froidautaj/Sport-Buddy">Sport-Buddy</a>: a social networking web app for people with an interest in sports
+
+### Languages and Tools I work with:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://lyqwid.com/wp-content/uploads/2015/04/Javascript-Logo.png" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="40" height="40"/>
