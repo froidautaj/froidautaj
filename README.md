@@ -12,6 +12,9 @@ Bootcamp projects I have worked on with my team:
   - <a href="https://github.com/froidautaj/SanitApp">SanitApp</a>: an Airbnb clone
   - <a href="https://github.com/froidautaj/Sport-Buddy">Sport-Buddy</a>: a social networking web app for people with an interest in sports
 
+University project that I worked for my Bachelor's Thesis:
+  - <a href="https://github.com/froidautaj/UniWell">UniWell</a>: a forum website inspired by Stack Overflow for university students, helping them in mental and physical well-being
+
 ### Languages and Tools I work with:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://lyqwid.com/wp-content/uploads/2015/04/Javascript-Logo.png" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs code" width="40" height="40"/>
